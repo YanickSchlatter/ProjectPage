@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\BBBaden\152\H4\ProjectPage_YanickSchlatter\ProjectPage_YanickSchlatter\obj\Debug\ProjectPage_YanickSchlatter.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\BBBaden\152\H4\ProjectPage_YanickSchlatter\ProjectPage_YanickSchlatter\obj\Debug\ProjectPage_YanickSchlatter.Resources.resources
+C:\Users\Admin\Documents\BBBaden\152\H4\ProjectPage_YanickSchlatter\ProjectPage_YanickSchlatter\obj\Debug\ProjectPage_YanickSchlatter.vbproj.GenerateResource.Cache
