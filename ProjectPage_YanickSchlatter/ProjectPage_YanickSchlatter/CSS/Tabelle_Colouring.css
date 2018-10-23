@@ -1,0 +1,7 @@
+﻿tr.colored td{
+    background: white;
+}
+
+tr.mouseOver td{
+    background: red;
+}
